@@ -30,7 +30,7 @@ private static aaaa inilize() {
 	
 @Test
 	public void show() {
-	System.out.println("Test1");	
+	System.out.println("hey useer");	
 		
 }
 		
